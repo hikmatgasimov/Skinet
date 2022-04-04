@@ -1,0 +1,10 @@
+D:\C#_Projects\Angular_NetCore_Or_Api.Projects\SkinetApi\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\C#_Projects\Angular_NetCore_Or_Api.Projects\SkinetApi\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\C#_Projects\Angular_NetCore_Or_Api.Projects\SkinetApi\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\C#_Projects\Angular_NetCore_Or_Api.Projects\SkinetApi\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+D:\C#_Projects\Angular_NetCore_Or_Api.Projects\SkinetApi\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Projects\Angular_NetCore_Or_Api.Projects\SkinetApi\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\C#_Projects\Angular_NetCore_Or_Api.Projects\SkinetApi\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\C#_Projects\Angular_NetCore_Or_Api.Projects\SkinetApi\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\C#_Projects\Angular_NetCore_Or_Api.Projects\SkinetApi\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\C#_Projects\Angular_NetCore_Or_Api.Projects\SkinetApi\Core\obj\Debug\netcoreapp3.1\Core.pdb
